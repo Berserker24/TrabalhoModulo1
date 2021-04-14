@@ -1,0 +1,48 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/c9/6d/11/c96d11e6a411df24c40bd9db6e8a891f.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+header
+{
+    text-align: center;
+    background-color: rgb(40, 91, 200);
+    font-family: "Papyrus", fantasy;
+}
+
+.Escolhas
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.Botões
+{
+    border-radius: 5%;
+    font-family: "Papyrus", fantasy;
+    font-size: 45px;
+    background-color: rgb(40, 91, 200);
+    text-align: center;
+    height: 250px;
+}
+
+.Botões img
+{
+    border-radius: 10%;
+    border: 2px solid rgb(0, 0, 0);
+    transition: transform .2s;
+    margin-bottom: 12%;
+}
+
+.Botões img:hover{
+    transform: scale(1.2);
+}

@@ -1,0 +1,28 @@
+body
+{
+    background-image: url("http://24.media.tumblr.com/c79e2e02c242fb2d4bccc421830b7342/tumblr_moxu62PbLC1s56jxro1_1280.gif");
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+
+
+.Historia
+{
+    background-color: rgba(255, 235, 205, 0.541);
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    font-family: "Papyrus", fantasy;
+    
+}
+
+.Historia p
+{
+    font-size: 30px;
+}

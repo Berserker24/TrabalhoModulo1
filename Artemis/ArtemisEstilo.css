@@ -1,0 +1,28 @@
+body
+{
+    background-image: url("https://wallpapercave.com/wp/wp2758170.gif");
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+
+
+.Historia
+{
+    background-color: rgba(201, 245, 188, 0.623);
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    font-family: "Papyrus", fantasy;
+    
+}
+
+.Historia p
+{
+    font-size: 30px;
+}

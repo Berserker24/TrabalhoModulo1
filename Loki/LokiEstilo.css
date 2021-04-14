@@ -1,0 +1,28 @@
+body
+{
+    background-image: url("https://i.imgur.com/JYQiziW.gif");
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+
+
+.Historia
+{
+    background-color: rgba(237, 243, 155, 0.575);
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    font-family: "Papyrus", fantasy;
+    
+}
+
+.Historia p
+{
+    font-size: 30px;
+}

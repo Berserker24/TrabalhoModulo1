@@ -10,7 +10,7 @@ var gameOver = `
 <div class="Historia">
 <h1> Você Perdeu!</h1>
 <h1> Você não escolheu a melhor opção para a situação </h1>
-<a href="../Geral/index.html"><button>Pressione o botão para jogar novamente</button><a>
+<a href="../index.html"><button>Pressione o botão para jogar novamente</button><a>
 
 <div>`
 

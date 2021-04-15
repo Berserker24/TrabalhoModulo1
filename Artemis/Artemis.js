@@ -71,13 +71,13 @@ function ArtemisSegundaFase()
 
     while(true)
     {
-        var Pergunta1  = prompt('Tome sua Decisão: \n Insira 1 para transforma-los e 2 Para mata-los')
-        if(Pergunta1 == 1)
+        var Pergunta1  = prompt('Tome sua Decisão: \n Insira 1 Para mata-los e 2 para transforma-los')
+        if(Pergunta1 == 2)
         {
             document.write(acertou)
             break
         }
-        else if(Pergunta1 == 2)
+        else if(Pergunta1 == 1)
         {
             document.write(gameOver)
             break
@@ -106,13 +106,13 @@ function ArtemisTerceiraFase()
 
     while(true)
     {
-        var Pergunta1  = prompt('Tome sua Decisão: \n Insira 1 para invocar lovos e 2 Para deixa-los')
-        if(Pergunta1 == 1)
+        var Pergunta1  = prompt('Tome sua Decisão: \n  Insira 1 Para deixa-los e 2 para invocar lobos  ')
+        if(Pergunta1 == 2)
         {
             document.write(acertou)
             break
         }
-        else if(Pergunta1 == 2)
+        else if(Pergunta1 == 1)
         {
             document.write(gameOver)
             break

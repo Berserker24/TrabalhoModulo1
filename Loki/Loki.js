@@ -106,13 +106,13 @@ function LokiTerceiraFase()
 
     while(true)
     {
-        var Pergunta1  = prompt('Tome sua Decisão: \n Insira 1 para para atacarem Thor e 2 Para se disfarçar')
-        if(Pergunta1 == 1)
+        var Pergunta1  = prompt('Tome sua Decisão: \n Insira 1 Para se disfarçar e 2 Para atacarem thor')
+        if(Pergunta1 == 2)
         {
             document.write(acertou)
             break
         }
-        else if(Pergunta1 == 2)
+        else if(Pergunta1 == 1)
         {
             document.write(gameOver)
             break
